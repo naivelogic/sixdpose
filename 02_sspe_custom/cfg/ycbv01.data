@@ -1,0 +1,14 @@
+train  = /mnt/bop20/bop/ycbv/models_yolo/01/train.txt
+valid  = /mnt/bop20/bop/ycbv/models_yolo/01/test.txt
+backup = /mnt/bop20/bop/ycbv/models_yolo/01/backup
+mesh = /mnt/bop20/bop/ycbv/models/obj_000001.ply
+tr_range = /mnt/bop20/bop/ycbv/models_yolo/01/training_range.txt
+name = 01
+diam = 0.103
+gpus = 0
+width = 640
+height = 480
+fx = 572.4114 
+fy = 573.5704
+u0 = 325.2611
+v0 = 242.0489

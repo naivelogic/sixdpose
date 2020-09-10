@@ -1,0 +1,3 @@
+[submodule "src/Pix2Pose"]
+	path = src/Pix2Pose
+	url = https://github.com/naivelogic/Pix2Pose

@@ -1,0 +1,14 @@
+train  = /mnt/daredevildiag/LINEMOD/LINEMOD/ape/train.txt
+valid  = /mnt/daredevildiag/LINEMOD/LINEMOD/ape/test.txt
+backup = /mnt/daredevildiag/LINEMOD/backup/ape
+mesh = /mnt/daredevildiag/LINEMOD/LINEMOD/ape/ape.ply
+tr_range = /mnt/daredevildiag/LINEMOD/LINEMOD/ape/training_range.txt
+name = ape
+diam = 0.103
+gpus = 0
+width = 640
+height = 480
+fx = 572.4114 
+fy = 573.5704
+u0 = 325.2611
+v0 = 242.0489
